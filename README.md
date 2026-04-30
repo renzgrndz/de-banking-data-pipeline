@@ -137,5 +137,6 @@ banking-modern-datastack/
 
 ---
 
-**Credit**: *Jaya Chandra Kadiveti*
-**Link**: *https://github.com/Jay61616/banking-modern-datastack*
+
+- **Credit**: *Jaya Chandra Kadiveti*
+- **Link**: *https://github.com/Jay61616/banking-modern-datastack*
